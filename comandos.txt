@@ -1,0 +1,27 @@
+
+#COMANDO python
+
+#crear un ambiente virtual
+python -m venv .venv
+
+#activar ambiente virtual
+source .venv/bin/activate
+
+#instalar librerias desde archivo requirements
+pip3 install -r requirements.text
+
+
+
+#COMANDO Git
+
+#revisar estatus
+git status
+
+#agregar archivo
+git add ()
+
+#confirmar cambios
+git commit -m "backup"
+
+#cargar cambios al repositorio
+git push origin main
