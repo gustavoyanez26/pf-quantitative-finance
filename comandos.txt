@@ -18,7 +18,7 @@ pip3 install -r requirements.text
 git status
 
 #agregar archivo
-git add ()
+git add "nombrearchivo"
 
 #confirmar cambios
 git commit -m "backup"
