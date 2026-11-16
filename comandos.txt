@@ -8,7 +8,7 @@ python -m venv .venv
 source .venv/bin/activate
 
 #instalar librerias desde archivo requirements
-pip3 install -r requirements.text
+pip3 install -r requirements.txt
 
 
 
